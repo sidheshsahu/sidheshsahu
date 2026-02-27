@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Sidhesh Sahu<br>Building smarter solutions with AI, creativity, and data insights
+<h1 align="center">Hi 👋, I'm Sidhesh Sahu</h1>
+<h3 align="center">Building smarter solutions with AI, creativity, and data insights</h3>
 
 
 ## 🌐 Socials:
