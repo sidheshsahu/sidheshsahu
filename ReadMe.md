@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <h1 align="center">Hi 👋, I'm Sidhesh Sahu</h1>
 <h3 align="center">Building smarter solutions with AI, creativity, and data insights</h3>
 
