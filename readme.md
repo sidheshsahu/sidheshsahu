@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sidhesh-sahu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/https://x.com/sideshsahu" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/https://github.com/sidheshsahu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Passionate AI/ML developer specializing in Computer Vision, Big Data, and Generative AI. Focused on building intelligent, data-driven applications and solving real-world problems with innovative solutions.</h3>**
+ **<h3 align="left">Passionate AI/ML developer specializing in Computer Vision, Big Data, Generative AI and Agentic AI. Focused on building intelligent, data-driven applications and solving real-world problems with innovative solutions.</h3>**
 
  **<h3 align="left">Skills</h3>**
 
